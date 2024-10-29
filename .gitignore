@@ -1,0 +1,4 @@
+*.pyc
+automark_server/users/user_info
+automark_server/users/user_progress
+automark_server/users/user_list.json

@@ -1,0 +1,141 @@
+StudentID,UvAnetID,LastName,MiddleName,FirstName,Email,Gender,Programme,PreviousAttempts,Group
+12070955,12070955,Aajati,El,Hanane,hanane.elaajati@student.uva.nl,F,"BSc KI year 5, MSc IS year 1 (IS-DS)",0,Groep B
+14573040,14573040,Aguilar Larruy, ,Oriol,oriol.aguilar.larruy@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep C
+13940422,13940422,Akkerman, ,Simon,simonatshe@gmail.com,M,MSc IS year 1 (IS-DS),0,Groep D
+11885637,11885637,Alberts, ,Nada,nada.alberts@student.uva.nl,F,MSc IS year 1 (IS-DS),0,Groep E
+11052392,11052392,Aloserij, ,Mitchel,mitchelalosery@quicknet.nl,M,MSc IS year 1 (IS-DS),0,Groep B
+13890409,13890409,Anderson, ,Thijn,thijn.anderson@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep B
+14311380,14311380,Azarm, ,Catayoun,catayoun.azarm@student.uva.nl,F,MSc IS year 1 (IS-DS),0,Groep H
+11053453,11053453,Baarle,van,Jeroen,jeroen.vanbaarle@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep F
+14344203,14344203,Badea, ,Sebastian,sebastian.badea@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep G
+11442816,11442816,Bax, ,Pieternel,pieternel.bax@student.uva.nl,F,"B Media and Information year 4, MSc IS year 1 (IS-IS)",0,Groep D
+12396222,12396222,Beek,van,Robin,robin.vanbeek@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep B
+14660474,14660474,Bergman, ,Halmar,halmar.bergman@student.uva.nl,M,MSc IS year 1 (IS-IS),0,Groep G
+14656779,14656779,Bernardo Da Silva, ,Mauricio,mauricio.bernardo.da.silva@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep B
+14020939,14020939,Bîrlad, ,Ivona,ivona.birlad@student.uva.nl,F,MSc IS year 1 (IS-DS),0,Groep H
+14585030,14585030,Brafine, ,Laura,laura.brafine@student.uva.nl,F,MSc IS year 1 (IS-DS),0,Groep F
+11097183,11097183,Chaloska, ,Ana,ana.chaloska@student.uva.nl,F,MSc IS year 1 (IS-DS),0,Groep D
+14043769,14043769,Changoer, ,Ritish,ritish.changoer@student.uva.nl,M,MSc IS year 2 (IS-DS),2,Groep B
+14657961,14657961,Chatterjee, ,Agniv,agniv.chatterjee@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep E
+14486679,14486679,Chen, ,Jing,jing.chen2@student.uva.nl,F,MSc IS year 1 (IS-DS),0,Groep G
+11008105,11008105,Chung, ,Minbo,minbo.chung@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep E
+14484560,14484560,Cintioli, ,Mattia,mattia.cintioli@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep H
+11977477,11977477,Criollo Quiroz, ,Cinthya,cinthya.criollo.quiroz@student.uva.nl,F,"B Economics and Business Econ year 5, MSc IS year 1 (IS-DS)",0,Groep F
+13718266,13718266,Deligiannis, ,Vasilis,vasilis.deligiannis@student.uva.nl,M,MSc IS year 2 (IS-DS),2,Groep A
+14657945,14657945,Deshamudre, ,Rohan,rohan.deshamudre@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep G
+11255641,11255641,Doorn, ,Sybolt,sybolt.doorn@student.uva.nl,M,"M Filosofie 2 jaar year 2, MSc IS year 1 (IS-DS)",0,Groep C
+14554682,14554682,Driessen, ,Berend,berend.driessen@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep G
+14398990,14398990,Du, ,Xiangyu,xiangyu.du@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep C
+12573566,12573566,Egilmez, ,Yavuz,yavuz.egilmez@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep H
+14606119,14606119,Elyamani, ,Hady,hady.elyamani@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep A
+14616068,14616068,Ertem, ,Sinem,sinem.ertem@student.uva.nl,F,MSc IS year 1 (IS-DS),0,Groep E
+14168472,14168472,Faas, ,Marissa,marissa.faas@student.uva.nl,F,MSc IS year 1 (IS-DS),0,Groep F
+12866539,12866539,Fraile Zendejas, ,Sofia,s.m.fraile@vu.nl,F,MSc IS year 1 (IS-DS),0,Groep G
+14587564,14587564,Gast, ,Philip,philip.gast@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep D
+14636824,14636824,Geurts, ,Mark,mark.geurts@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep A
+14327902,14327902,Gontard, ,Léa,lea.gontard@student.uva.nl,F,MSc IS year 1 (IS-DS),0,Groep D
+14153866,14153866,Gu, ,Wenjia,wenjia.gu@student.uva.nl,F,MSc IS year 1 (IS-DS),0,Groep E
+14584816,14584816,Gulbis, ,Jill,jill.gulbis@student.uva.nl,F,MSc IS year 1 (IS-DS),0,Groep C
+12183520,12183520,Hartog, ,Thom,thom.hartog@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep H
+14151103,14151103,Huwae, ,Sara,sara.huwae@student.uva.nl,F,MSc IS year 1 (IS-DS),0,Groep G
+13683039,13683039,Iqbal, ,Danial,danial.iqbal@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep G
+10004378,10004378,Janiszewski, ,Jan,jan.janiszewski@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep D
+14016109,14016109,Janssens, ,Moïse,moise.janssens@student.uva.nl,F,MSc IS year 1 (IS-DS),0,Groep F
+14664755,14664755,Jong,de,Mitch,mitch.de.jong@student.uva.nl,M,MSc IS year 1 (IS-IS),0,Groep F
+11232676,11232676,Kadi,El,Oumayma,oumayma.el.kadi@student.uva.nl,F,MSc IS year 2 (IS-DS),2,Groep D
+14446502,14446502,Kamra, ,Varnika,varnika.kamra@student.uva.nl,F,MSc IS year 1 (IS-DS),0,Groep G
+12695246,12695246,Kashyap, ,Isha,isha.kashyap@student.uva.nl,F,MSc IS year 1 (IS-DS),0,Groep C
+14496275,14496275,Kashyap, ,Nik,nik.kashyap@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep B
+12814083,12814083,Kassai, ,Jesse,jesse.kassai@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep H
+14532972,14532972,Kastanas, ,Sotirios,sotirios.kastanas@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep D
+13955152,13955152,Katsikeros, ,Theodoros,theodore.katsikeros@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep C
+12393983,12393983,Kersten, ,Mayla,m.m.kersten@uva.nl,F,MSc IS year 2 (IS-DS),0,Groep H
+14464519,14464519,Khandelwal, ,Anshita,anshita.khandelwal@student.uva.nl,F,MSc IS year 1 (IS-DS),0,Groep A
+11318627,11318627,Kiliç, ,Semih,semih.kilic@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep F
+11430656,11430656,Kleij,van der,Egbert,egbert.vanderkleij@student.uva.nl,M,MSc IS year 1 (IS-IS),0,Groep G
+12166960,12166960,Knoop, ,Astrid,astrid.knoop@student.uva.nl,F,MSc IS year 1 (IS-DS),0,Groep G
+12851981,12851981,Kolthof, ,Sascha,sascha.kolthof@student.uva.nl,M,"BSc IK year 4, MSc IS year 1 (IS-DS)",0,Groep F
+12716197,12716197,Kommandeur, ,Jesse,jesse.kommandeur@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep G
+11872497,11872497,Koppe, ,Gino,gino.koppe@student.uva.nl,M,MSc IS year 2 (IS-IS),0,Groep G
+11302445,11302445,Koppen, ,Jasper,jasper.koppen@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep H
+13929089,13929089,Koutstaal, ,Jonathan,jonathan.koutstaal@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep E
+14456990,14456990,Krisiukėnas, ,Pijus,pijus.krisiukenas@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep B
+11713364,11713364,Lardinois, ,Bono,bono.lardinois@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep E
+12809047,12809047,Ling, ,Hazel,hazel.ling@student.uva.nl,F,MSc IS year 1 (IS-IS),0,Groep F
+12371114,12371114,Litecia, ,Joey,joey.litecia@student.uva.nl,M,"B Business Administration year 5, MSc IS year 1 (IS-IS)",0,Groep A
+12569372,12569372,Lončarić, ,Matej,matej.loncaric@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep G
+14651610,14651610,Lotfi, ,Imad,imad.lotfi@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep C
+12010561,12010561,Luo, ,Yuxin,yuxin.luo@student.uva.nl,F,MSc IS year 1 (IS-DS),0,Groep H
+14634066,14634066,Lý, ,Khang,khang.ly@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep E
+14482835,14482835,Mäkinen, ,Jessika,jessika.makinen@student.uva.nl,F,MSc IS year 1 (IS-DS),0,Groep E
+14529157,14529157,Manolov, ,Vladislav,vladislav.manolov@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep B
+14642484,14642484,Mazilu, ,Ioana,ioana.mazilu@student.uva.nl,F,MSc IS year 1 (IS-DS),0,Groep F
+14572443,14572443,Meelis,van,Richard,richard.van.meelis@student.uva.nl,M,MSc IS year 1 (IS-IS),0,Groep E
+14296276,14296276,Mezzi, ,Emanuele,emanuele.mezzi@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep F
+12569402,12569402,Millan Ruiz, ,Alvaro,alvaro.millanruiz@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep E
+14624125,14624125,Mizzi, ,Keane,keane.mizzi@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep H
+13266993,13266993,Moed, ,Nikita,nikitamoed@me.com,F,MSc IS year 1 (IS-DS),0,Groep B
+12253286,12253286,Mulder, ,Kelvin,kelvin.mulder@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep B
+14090759,14090759,Murong, ,Yanchao,yanchao.murong@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep E
+14622750,14622750,Nandanpawar, ,Gargi,gargi.nandanpawar@student.uva.nl,F,MSc IS year 1 (IS-DS),0,Groep G
+12628859,12628859,Negru, ,Ana,ana.negru@student.uva.nl,F,MSc IS year 1 (IS-DS),0,Groep C
+11066318,11066318,Nguyen, ,Tuan,tuan.nguyen@student.uva.nl,M,"Bijvak: MSc AI year 3, MSc IS year 1 (IS-DS)",0,Groep A
+14581728,14581728,Nooy,de,Alexandra,alexandra.de.nooy@student.uva.nl,F,MSc IS year 1 (IS-DS),0,Groep B
+14425351,14425351,O'Donnell, ,Conor,conor.odonnell@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep A
+11713801,11713801,Palić, ,Selina,selina.palic@student.uva.nl,F,MSc IS year 1 (IS-DS),0,Groep H
+12841293,12841293,Peeva, ,Natali,natali.peeva@student.uva.nl,F,MSc IS year 1 (IS-DS),0,Groep D
+14187639,14187639,Penca, ,Matei,matei.penca@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep H
+10970134,10970134,Pfauder, ,Maartje,maartje.pfauder@student.uva.nl,F,MSc IS year 1 (IS-DS),0,Groep C
+14564912,14564912,Pizzuto, ,Andrew,andrew.pizzuto@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep F
+14255014,14255014,Porumb, ,Loriana,loriana.porumb@student.uva.nl,F,MSc IS year 1 (IS-DS),0,Groep D
+14465167,14465167,Porvatov, ,Vadim,vadim.porvatov@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep A
+14504588,14504588,Prado Muñoz, ,Julio,julio.prado.munoz@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep C
+14449811,14449811,Rapa, ,Matteo,matteo.rapa@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep F
+11892048,11892048,Rasheed, ,Saad,saad.rasheed@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep C
+14000520,14000520,Reijans, ,jeff,jeff.reijans@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep B
+14028417,14028417,Rink, ,Lois,lois.rink@student.uva.nl,F,MSc IS year 2 (IS-DS),0,Groep C
+12666866,12666866,Rood, ,Naomi,naomi.rood@student.uva.nl,F,MSc IS year 1 (IS-DS),0,Groep B
+12410292,12410292,Roos, ,Noemi,noemi.roos@student.uva.nl,F,MSc IS year 1 (IS-DS),0,Groep F
+14485974,14485974,Safdel Golafzany, ,Aryana,aryana.safdel.golafzany@student.uva.nl,F,MSc IS year 1 (IS-DS),0,Groep H
+11913894,11913894,Salimans, ,Diederik,Diederik.Salimans@gmail.com,M,MSc IS year 1 (IS-DS),0,Groep D
+14299097,14299097,Sande,van de,Susan,susan.van.de.sande@student.uva.nl,F,MSc IS year 1 (IS-DS),0,Groep E
+11305029,11305029,Sandel,,Jorden,jorden.sandel@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep C
+10734155,10734155,Sang-Ajang, ,Nicole,nicole.sang-ajang@student.uva.nl,F,"MSc IS year 3 (IS-DS), MSc AI year 2",3,Groep C
+12402605,12402605,Schenk, ,Iva,iva.schenk@student.uva.nl,F,MSc IS year 1 (IS-DS),0,Groep A
+11274859,11274859,Schoppink, ,Daan,daan.schoppink@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep G
+12329142,12329142,Schouten, ,Tim,tim.schouten@student.uva.nl,M,MSc IS year 2 (IS-IS),0,Groep F
+13906305,13906305,Sekmokas, ,Mantas,mantas.sekmokas@student.uva.nl,M,MSc IS year 2 (IS-IS),0,Groep D
+13503685,13503685,Shafa Bakhsh, ,Arian,arian.shafa.bakhsh@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep D
+13519867,13519867,Shkreli, ,Zenit,zenit.shkreli@student.uva.nl,M,"MSc IS year 1 (IS-DS), Bijvak: MSc AI year 1",0,Groep E
+14458047,14458047,Silvério, ,Maurice,maurice.silverio@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep D
+14252724,14252724,Singh, ,Harinder,harinder.singh@student.uva.nl,M,"MSc IS year 1 (IS-DS), M Data Science & Bus Analytics year 1",0,Groep H
+12334200,12334200,Skor, ,Nichiho,nichiho.skor@student.auc.nl,F,MSc IS year 1 (IS-DS),0,Groep E
+14023423,14023423,Slotboom, ,Sebastiaan,sebastiaan.slotboom@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep C
+14629747,14629747,Smeets, ,Mara,mara.smeets@student.uva.nl,F,MSc IS year 1 (IS-DS),0,Groep H
+11598727,11598727,Snelder, ,Xander,xander.snelder2@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep A
+13545388,13545388,Soepnel, ,Yannick,yannick.soepnel@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep A
+12077763,12077763,Strikkert, ,Julia,julia.strikkert@student.uva.nl,F,MSc IS year 1 (IS-DS),0,Groep A
+14534053,14534053,Su, ,Yuan,yuan.su2@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep H
+13944541,13944541,Tan, ,Jamie,jamie.tan@student.uva.nl,F,"MSc AI year 1, MSc IS year 1 (IS-DS)",0,Groep B
+12250716,12250716,Tervoort, ,Faye,faye.tervoort@student.uva.nl,F,MSc IS year 1 (IS-DS),0,Groep G
+11683813,11683813,Timmerij, ,Gijs,gijs.timmerij@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep D
+12311197,12311197,Timmerman, ,Joran,joran.timmerman@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep D
+12394467,12394467,Tjoe Ny, ,Carlos,carlos.tjoeny@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep C
+12770698,12770698,Trân, ,Anh,anh.tran1@student.uva.nl,F,MSc IS year 1 (IS-DS),0,Groep E
+12169242,12169242,Visser,de,Lucas,lucas.de.visser@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep A
+11303719,11303719,Vitalis, ,Maxim,maxim.vitalis@student.uva.nl,M,"MSc CLSJD year 2, MSc IS year 1 (IS-DS)",0,Groep A
+12425389,12425389,Vogd, ,Matthijs,matthijs.vogd@student.uva.nl,M,"B Wijsbegeerte year 4, MSc IS year 1 (IS-DS)",0,Groep E
+12219355,12219355,Vollenbroek, ,Matthijs,matthijs.vollenbroek@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep C
+11350377,11350377,Vrijmoet, ,Olaf,olaf.vrijmoet@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep B
+14625717,14625717,Wagenaar, ,Luuk,luuk.wagenaar2@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep D
+14580292,14580292,Wang, ,Kaiyi,z5344630@unsw.edu.au,M,Exch M Sciences year 1,0,Groep A
+14216752,14216752,Wielhouwer, ,Michelle,michelle.wielhouwer@student.uva.nl,F,MSc IS year 1 (IS-DS),0,Groep A
+13588818,13588818,Wijlhuizen, ,Jesse,jesse.wijlhuizen@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep H
+11821760,11821760,Wilde,de,Hein,hein.dewilde@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep F
+12682586,12682586,Willberg, ,Klara,klara.willberg@student.uva.nl,F,MSc IS year 1 (IS-DS),0,Groep A
+13551884,13551884,Wolfson, ,Boris,wolf.brr@gmail.com,M,MSc IS year 1 (IS-DS),0,Groep F
+12538922,12538922,Wu, ,Xiaoyu,xiaoyu.wu@student.auc.nl,F,MSc IS year 1 (IS-DS),0,Groep D
+14257505,14257505,Xiao, ,Mengchen,may.xiao@student.uva.nl,F,MSc IS year 1 (IS-DS),0,Groep B
+14504804,14504804,Yazdanfar, ,Adrian,adrian.yazdanfar@student.uva.nl,M,MSc IS year 1 (IS-DS),0,Groep B
+12880035,12880035,Zeuzem, ,Julia,julia.zeuzem@student.uva.nl,F,MSc IS year 1 (IS-IS),0,Groep C
+14652730,14652730,Zhang, ,Min Yi,min.yi.zhang@student.uva.nl,F,MSc IS year 1 (IS-DS),0,Groep A

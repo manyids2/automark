@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Progress</title>
+    <!-- Latest compiled and minified CSS -->
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+    <!-- jQuery library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+    <!-- Latest compiled JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <style>
+        .wide-container {
+            padding-right: 250px;
+            padding-left: 250px;
+        }
+
+        .table th {
+            text-align: center;
+        }
+
+        .table td {
+            text-align: center;
+        }
+
+        colgroup col.username {
+            width: 350px;
+        }
+
+        colgroup col.number {
+            width: 50px;
+        }
+
+        colgroup col.name {
+            width: 600px;
+        }
+
+        colgroup col.mail {
+            width: 300px;
+        }
+
+        colgroup col.main-functions {
+            background-color: #dff0d8;
+            width: 100px;
+        }
+
+        .small {
+            font-style: 100;
+            font-size: 9pt;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="wide-container">
+        <h1>Week 3: Neural Nets</h1>
+        <h2>Progress</h2>
+        <br>
+        <table class="table table-hover">
+            <colgroup>
+                <col span="1" class="number">
+                <col span="1" class="username">
+                <col span="1" class="name">
+                <col span="1" class="mail">
+                <col span="12" class="main-functions">
+            </colgroup>
+            <thead>
+                <tr>
+                    <th>#</th>
+                    <th>username</th>
+                    <th>Name</th>
+                    <th>Email</th>
+                    <th class="small">Dense forward</th>
+                    <th class="small">Dense grad</th>
+                    <th class="small">Dense d_W</th>
+                    <th class="small">Dense d_b</th>
+                    <th class="small">ReLU forward</th>
+                    <th class="small">ReLU grad</th>
+                    <th class="small">L2</th>
+                    <th class="small">Conv 2D</th>
+                    <th class="small">Box Blur</th>
+                    <th class="small">Max Pool</th>
+                    <th class="small">Flatten forward</th>
+                    <th class="small">Flatten grad</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for user in users %}
+                <tr>
+                    <td>{{ loop.index }}</td>
+                    <td>{{ user.username }}</td>
+                    <td>{{ user.name }}</td>
+                    <td>{{ user.mail }}</td>
+                    <td>{{ user.dense_forward | safe }}</td>
+                    <td>{{ user.dense_grad_input | safe }}</td>
+                    <td>{{ user.dense_grad_W | safe }}</td>
+                    <td>{{ user.dense_grad_b | safe }}</td>
+                    <td>{{ user.relu_forward | safe }}</td>
+                    <td>{{ user.relu_grad_input | safe }}</td>
+                    <td>{{ user.l2_regularizer | safe }}</td>
+                    <td>{{ user.conv_matrix | safe }}</td>
+                    <td>{{ user.box_blur | safe}}</td>
+                    <td>{{ user.maxpool_forward | safe}}</td>
+                    <td>{{ user.flatten_forward | safe}}</td>
+                    <td>{{ user.flatten_grad_input | safe}}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+</body>
+
+</html>
